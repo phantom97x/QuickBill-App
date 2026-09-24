@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Crisp Receipt Sheet in safe zone (21 to 87) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,26 L74,26 L74,80 L69,76 L64,80 L59,76 L54,80 L49,76 L44,80 L39,76 L34,80 Z" />
+
+    <!-- Receipt Line 1 -->
+    <path
+        android:strokeColor="#93C5FD"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M40,36 L68,36" />
+
+    <!-- Receipt Line 2 -->
+    <path
+        android:strokeColor="#BFDBFE"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M40,44 L60,44" />
+
+    <!-- Vibrant Lightning Bolt / Speed Bolt (No Text, No PRO) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M59,34 L43,56 L55,56 L47,76 L69,50 L57,50 Z" />
+
+    <!-- Lightning Bolt Accent / Shadow -->
+    <path
+        android:strokeColor="#D97706"
+        android:strokeWidth="1.2"
+        android:strokeLineJoin="round"
+        android:pathData="M59,34 L43,56 L55,56 L47,76 L69,50 L57,50 Z" />
+</vector>

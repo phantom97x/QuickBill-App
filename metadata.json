@@ -1,0 +1,6 @@
+{
+  "name": "QuickBill",
+  "description": "Fast billing and inventory app for hardware shops with quick item numbering, daily sales, and stock tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
